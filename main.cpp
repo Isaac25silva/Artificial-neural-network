@@ -10,7 +10,7 @@ int main()
 {
 	//double m[7000][1000];
 
-	//-- Variáveis utilizada em treinamentos novos--
+	//-- Variáveis utilizada somente em treinamentos novos--
 	double n = 0.45;
 	double alpha = 0.2;
 	unsigned int  numEntradas = 256; //Entre com o numero de entradas da RNA
