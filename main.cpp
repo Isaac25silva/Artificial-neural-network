@@ -14,10 +14,10 @@ int main()
 	double n = 0.45;
 	double alpha = 0.2;
 	unsigned int  numEntradas = 256; //Entre com o numero de entradas da RNA
-	unsigned int numSaidas = 10;
+	unsigned int numSaidas = 10;	   //Entre com o numero de saidas da RNA
 	double Wo = 0; //bias
 	int numCamadaEscondida = 4;
-    	unsigned int iteracoes = 100;
+    	unsigned int iteracoes = 100;    //Iterações usadas apenas no treinamento novo
 	int numNeuronios = 300;
 	//----------------------------------------------
 
